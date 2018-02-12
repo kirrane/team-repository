@@ -7,7 +7,9 @@ public class Welcome{
   
     System.out.println("Welcome to Github lab 2!");
     System.out.println("obrienke");
+    System.out.println("xxxx")
     
     }
     
  }
+
